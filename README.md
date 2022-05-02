@@ -1,0 +1,3 @@
+- 👍 Olá, sou @FlavioLAF
+- 👨‍💻 Sou gerente de sistemas no Centro Médico Mauricio Carvalho
+- 🤓 No momento estudando e me especializando em Flutter, Java e React
