@@ -1,3 +1,3 @@
 - 👍 Olá, sou Flavio Lucio
 - 👨‍💻 Sou depto de gestão da tecnologia no Centro Médico Mauricio Carvalho
-- 🤓 No momento estudando e me especializando em Flutter, Java e React
+- 🤓 No momento estudando e me especializando em DataScience
